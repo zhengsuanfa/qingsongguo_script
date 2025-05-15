@@ -27,7 +27,7 @@
 ## 🔧 使用方式
 
 1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)
-2. 打开脚本链接：[点击安装脚本](https://github.com/你的用户名/qingsongguo_script/raw/main/shortcut-answer.user.js)
+2. 打开脚本链接：[点击安装脚本](https://github.com/zhengsuanfa/qingsongguo_script/raw/main/qingsongguo_script.js)
 3. Tampermonkey 会自动识别并提示安装，点击“安装”即可开始使用
 
 ---
